@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Who is revealed to be the Half-Blood Prince in the book?",
+    "options": ["Harry Potter", "Tom Riddle", "Severus Snape", "Draco Malfoy"],
+    "answer": "Severus Snape"
+  },
+  {
+    "question": "What is the name of the book that Harry finds with helpful information on Horcruxes?",
+    "options": [
+      "The Dark Arts Defense",
+      "Advanced Potion-Making",
+      "Magical Theory",
+      "The Life and Lies of Albus Dumbledore"
+    ],
+    "answer": "Advanced Potion-Making"
+  },
+  {
+    "question": "Who does Ron Weasley end up dating by the end of the book?",
+    "options": [
+      "Hermione Granger",
+      "Lavender Brown",
+      "Ginny Weasley",
+      "Fleur Delacour"
+    ],
+    "answer": "Lavender Brown"
+  },
+  {
+    "question": "Which character dies at the end of 'Harry Potter and the Half-Blood Prince'?",
+    "options": ["Dumbledore", "Sirius Black", "Cedric Diggory", "Remus Lupin"],
+    "answer": "Dumbledore"
+  },
+  {
+    "question": "Who is the new Defense Against the Dark Arts teacher in 'Harry Potter and the Half-Blood Prince'?",
+    "options": ["Remus Lupin", "Dolores Umbridge", "Horace Slughorn", "Carrow"],
+    "answer": "Horace Slughorn"
+  },
+  {
+    "question": "Which potion does Harry use to help him succeed in potion-making class?",
+    "options": [
+      "Felix Felicis",
+      "Amortentia",
+      "Veritaserum",
+      "Polyjuice Potion"
+    ],
+    "answer": "Felix Felicis"
+  },
+  {
+    "question": "What does Draco Malfoy do that makes him suspicious in the book?",
+    "options": [
+      "He becomes friends with Harry",
+      "He works for the Death Eaters",
+      "He repairs a vanishing cabinet",
+      "He tries to kill Harry"
+    ],
+    "answer": "He repairs a vanishing cabinet"
+  },
+  {
+    "question": "Who does Ginny Weasley end up dating in the book?",
+    "options": [
+      "Harry Potter",
+      "Ron Weasley",
+      "Dean Thomas",
+      "Neville Longbottom"
+    ],
+    "answer": "Harry Potter"
+  },
+  {
+    "question": "What is the significance of the Horcruxes in the story?",
+    "options": [
+      "They are part of Voldemort’s immortality",
+      "They hold the secret to defeating Voldemort",
+      "They contain Harry’s memories",
+      "They are magical creatures"
+    ],
+    "answer": "They are part of Voldemort’s immortality"
+  },
+  {
+    "question": "Which character says the line, 'I am not worried, Harry. I am with you.'?",
+    "options": [
+      "Albus Dumbledore",
+      "Ron Weasley",
+      "Hermione Granger",
+      "Severus Snape"
+    ],
+    "answer": "Albus Dumbledore"
+  }
+]
